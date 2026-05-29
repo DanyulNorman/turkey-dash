@@ -36,7 +36,6 @@ The scoring loop is property damage: break things, collect the dollar value, cha
 
 ![Gameplay](assets/turkey_dash_screen_1.jpg)
 
-![High score run](assets/turkey_dash_screen_2.jpg)
 
 [![Gameplay](https://img.youtube.com/vi/WMmCG3rTLrE/0.jpg)](https://youtu.be/WMmCG3rTLrE)
 
